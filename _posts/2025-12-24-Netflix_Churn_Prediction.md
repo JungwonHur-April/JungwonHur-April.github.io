@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "Netflix Churn Prediction"
+---
+
+
 {
   "nbformat": 4,
   "nbformat_minor": 0,
